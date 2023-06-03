@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+}
+
+.navbar{
+    background-color:  #CA6F1E  ;
+}
+
+
+.header_icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
